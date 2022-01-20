@@ -1,5 +1,6 @@
 require "newrelic-rake/version"
 require "newrelic-rake/instrument"
+require "newrelic-rake/task"
 
 module NewRelic
   module Rake
